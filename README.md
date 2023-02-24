@@ -2,4 +2,4 @@
 
 <h2>  Information Technology Projects:</h2>
 
--<b>osTicket (Help Desk Ticketing Sustem)</B>
+-<b>osTicket (Help Desk Ticketing System)</B>
