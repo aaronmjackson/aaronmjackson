@@ -2,4 +2,6 @@
 
 <h2>  Information Technology Projects:</h2>
 
+-<b>Creating Virtual Machines </B>
+
 -<b>Network Security Groups (Firewall implementation) </B>
