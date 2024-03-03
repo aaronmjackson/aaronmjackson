@@ -2,6 +2,6 @@
 
 <h2>  Information Technology Projects:</h2>
 
--<b>Creating Virtual Machines </B>
+-<b>Creating Virtual Machines in Microsoft Azure</B>
 
 -<b>Network Security Groups (Firewall implementation) </B>
